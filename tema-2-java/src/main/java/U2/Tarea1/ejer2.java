@@ -1,4 +1,4 @@
-package U2;
+package U2.Tarea1;
 
 public class ejer2 {
   public static void main(String[] args) {
